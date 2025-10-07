@@ -1,0 +1,19 @@
+h1 {
+    color: darkgreen;
+}
+
+p {
+    color: lightgreen;
+}
+
+.container {
+    width: 700px;
+    background-color: cadetblue;
+    margin: auto;
+    padding: 20px;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
