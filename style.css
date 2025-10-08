@@ -12,8 +12,3 @@ p {
     margin: auto;
     padding: 20px;
 }
-
-div {
-    display: block;
-    unicode-bidi: isolate;
-}
